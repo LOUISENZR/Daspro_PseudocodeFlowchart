@@ -13,7 +13,7 @@ public class SegitigaSamaKaki {
         System.out.println("Masukan miring: ");
         miring = sc.nextInt();
         luas = (alas * tinggi) / 2;
-        keliling = alas + tinggi + miring;
+        keliling = alas + (miring * 2);
         System.out.println("luas Segitiga adalah: " + luas);
         System.out.println("keliling Segitiga adalah: " + keliling);
 

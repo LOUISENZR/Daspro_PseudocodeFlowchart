@@ -6,10 +6,13 @@ tinggi, alas, miring: int
 Luas, keliling : Float
 
 Deskripsi :
-Read alas
+Print "Masukan alas: "
+Read alas 
+Print "Masukan tinggi: "
 Read tinggi
+Print "Masukan miring: "
 Read miring
 Luas = (alas * tinggi) / 2
-Print luas
 Keliling = alas + tinggi + miring 
-Print keliling
+Print luas "Luas segitiga adalah: "
+Print keliling "Keliling segitiga adalah: "

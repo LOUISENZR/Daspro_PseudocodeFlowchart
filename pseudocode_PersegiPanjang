@@ -1,14 +1,16 @@
-Algoritma : hitung_keliling_persegi
-{dibacaa Panjang dan lebar dari piranti massukan. Hitunglah keliling persegi}
+Algoritma : hitung_keliling dan luas_persegi
+{dibacaa Panjang dan lebar dari piranti massukan. Hitunglah keliling  dan luas persegi}
 
 Deklarasi :
 Panjang, lebar: int
 Luas, Keiling : float
 
 Deskripsi :
+Print "Masukkan Panjang: "
 Read Panjang
+Print "Masukkan lebar: "
 Read lebar
 Luas = panjang * lebar
-Print luas
 Keliling = (Panjang+lebar)*2
-Print keliling
+Print "luas persegi panjang adalah: "
+Print "keliling persegi panjang adalah: "
