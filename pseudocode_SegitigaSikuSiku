@@ -1,0 +1,15 @@
+Algoritma : hitung_keliling_luas_Segitiga Siku-Siku
+{dibacaa alas, tinggi, dan miring dari piranti massukan. Hitunglah keliling dan luas Segitiga siku-siku}
+
+Deklarasi :
+tinggi, alas, miring: int
+Luas, keliling : Float
+
+Deskripsi :
+Read alas
+Read tinggi
+Read miring
+Luas = (alas * tinggi) / 2
+Print luas
+Keliling = alas + tinggi + miring 
+Print keliling

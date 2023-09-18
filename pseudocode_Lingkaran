@@ -1,0 +1,14 @@
+Algoritma : hitung_keliling_Lingkaran
+{dibacaa jari-jari dan phi dari piranti massukan. Hitunglah keliling dan luas lingkaran}
+
+Deklarasi :
+jari-jari (r): int
+phi: double
+
+Deskripsi :
+Read jari-jari(r)
+Read phi
+Luas = phi * r * r
+Print luas
+Keliling = phi * (r+r) 
+Print keliling
