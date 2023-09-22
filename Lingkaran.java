@@ -15,7 +15,7 @@ public class Lingkaran {
         keliling = phi * (r + r);
         System.out.println("luas Lingkaran adalah: " + luas);
         System.out.println("keliling Lingkaran adalah: " + keliling);
-
+        sc.close();
         
     }
 }

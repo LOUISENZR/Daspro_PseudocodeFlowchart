@@ -14,7 +14,7 @@ public class PersegiPanjang {
         keliling = (panjang + lebar) * 2;
         System.out.println("luas Persegi Panjang adalah: " + luas);
         System.out.println("keliling persegi panjang adalah: " + keliling);
-
+        sc.close();
         
     }
 }

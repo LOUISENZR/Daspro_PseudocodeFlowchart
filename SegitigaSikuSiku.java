@@ -16,7 +16,7 @@ public class SegitigaSikuSiku {
         keliling = alas + tinggi + miring;
         System.out.println("luas Segitiga adalah: " + luas);
         System.out.println("keliling Segitiga adalah: " + keliling);
-
+        sc.close();
         
     }
 }

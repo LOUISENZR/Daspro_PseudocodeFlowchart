@@ -16,7 +16,7 @@ public class SegitigaSamaKaki {
         keliling = alas + (miring * 2);
         System.out.println("luas Segitiga adalah: " + luas);
         System.out.println("keliling Segitiga adalah: " + keliling);
-
+        sc.close();
         
     }
 }
